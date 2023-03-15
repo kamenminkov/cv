@@ -36,8 +36,6 @@
 - **Gecko Bingo** — Bingo game client with extra games and mobile support. Worked on business logic
   implementation, UI implementation, animations. Technologies: HTML5, TypeScript, JavaScript, Phaser 2, Cordova.
 
----
-
 ### **Game Developer**
 
 ### Casualino JSC
@@ -48,7 +46,7 @@
 - **VIP Spades, VIP Belote, Belot BG** — rework and implementation of various game screens, UI elements and animations
   Implementation of various mini games with Phaser and HTML5 Canvas.
 
----
+
 
 ### **Game Developer**
 
@@ -64,7 +62,7 @@
 
 Tech stack: HTML5 canvas, Phaser, JavaScript, TypeScript, Node.js
 
----
+
 
 ### **Game Developer (intern)**
 
@@ -77,7 +75,7 @@ Developing iOS games with Objective-C and Cocos2D.
 
 Technologies: Unity, C#, Objective-C, Cocos2D
 
----
+
 
 ### **Manual QA Tester**
 
@@ -101,6 +99,8 @@ A simple extension I wrote to address some shortcomings of VSCode.
 
 A simple gallery site to showcase my hobby/part-time job. As of now it's a static FE only, the intention is to grow it to a full stack solution with Node.js.
 Tech stack: React, MUI, Valtio, TypeScript
+
+---
 
 ## Education
 
