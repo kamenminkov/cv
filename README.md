@@ -26,7 +26,7 @@
 
   Tech stack: Angular, TypeScript, AngularJS, D3js, Cypress, Jest, Storybook.
 
-- **Internal project** — a learning project; full-stack app for publishing and displaying articles. Mostly involved with the back end - I implemented features like user registration, login, article publishing, editing and deletion, throttling of consecutive attempts to publish.
+- **Internal project** — a learning project; full-stack app for publishing and displaying articles. Mostly involved with the back end - I implemented features like user registration, login, user roles, article publishing, editing and deletion, throttling of consecutive attempts to publish.
 
   Tech stack: Angular 13, NgRx, Node.js (ts-node), Express, MongoDB + Mongoose, Docker.
 
